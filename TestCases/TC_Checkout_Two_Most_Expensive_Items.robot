@@ -1,5 +1,5 @@
 *** Settings ***
-Library          Selenium2Library
+Library          SeleniumLibrary
 Resource         ../Keywords/AddToCart_keywords.robot
 
 Test Setup       Launch Browser and Open Application
